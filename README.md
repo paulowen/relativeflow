@@ -3,6 +3,5 @@
 To build and release:
 
 ```
-console
 make
 ```
