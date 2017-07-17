@@ -1,4 +1,4 @@
-baseURL = "https://relativeflow.com/"
+baseURL = "https://www.relativeflow.com/"
 languageCode = "en"
 title = "RelativeFlow"
 theme = "hugo-theme-cactus-plus"
