@@ -10,6 +10,9 @@ bio = "network | @relativeflow"
 twitter = "relativeflow"
 enableRSS = true
 
+disqusShortname = "relativeflow"
+enableDisqus = true
+
 iconFont = "font-awesome"
 socialIconStyle = "circle"
 
