@@ -4,20 +4,19 @@ title = "RelativeFlow"
 theme = "hugo-theme-cactus-plus"
 
 [params]
-name = "RelativeFlow"
-description = "network | @relativeflow"
-bio = "network | @relativeflow"
-twitter = "relativeflow"
-enableRSS = true
+  name = "RelativeFlow"
+  description = "network | @relativeflow"
+  bio = "network | @relativeflow"
+  twitter = "relativeflow"
+  enableRSS = true
 
-disqusShortname = "relativeflow"
-enableDisqus = true
+  disqusShortname = "relativeflow"
+  enableDisqus = true
 
-iconFont = "font-awesome"
-socialIconStyle = "circle"
-
-customCSS = ["css/fixes.css"]
+  customCSS = ["css/fixes.css"]
+ 
+  iconFont = "font-awesome"
 
 [social]
-twitter-square = "https://twitter.com/relativeflow"
-github-square = "https://github.com/paulowen"
+  twitter-square = "https://twitter.com/relativeflow"
+  github-square = "https://github.com/paulowen"
