@@ -8,8 +8,6 @@ aliases: [
 ]
 ---
 
-# Overview
-
 BGP peering occurs upon TCP as the transport protocol, which implies that for a successful stateful connection to happen, one of the peering routers is the client, and the other peering router is the server. 
 
 One of the peering validation steps of the BGP server, irrespective as to whether the peering is of type internal or external, is to check that the client's IP address as the source of the SYN packet is valid or approved for peering. This check is performed against configuration within the local BGP process on the server.

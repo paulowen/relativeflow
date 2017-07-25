@@ -6,8 +6,6 @@ aliases: ["/2017/07/23/connected-static-routes/",
           "/post/connected-static-routes/"]
 ---
 
-# Overview
-
 Static routing is a simple concept to understand and implement, but how you configure the next hop or gateway of a static route can impact how other routing processes on the router deal with its presence.
 
 A router must have a mechanism to know which local interface it should use to forward packets towards a destination prefix. When deploying static routes, an engineer has the choice to configure the outgoing interface explicitly or not. If you configure only a next IP address, the router must recurse that IP address to a matching locally addressed interface to find an outgoing interface.
